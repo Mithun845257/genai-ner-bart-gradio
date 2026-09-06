@@ -94,7 +94,7 @@ demo.launch(
 )
 ```
 ### OUTPUT:
-![Uploading 56abc846-d56f-4e19-8028-258052bd334f.png…]()
+<img width="1034" height="624" alt="image" src="https://github.com/user-attachments/assets/92ccd591-c54a-4f1b-90d6-788bf87a40d8" />
 
 ### RESULT:
 Thus, the Named Entity Recognition prototype was successfully developed using the dslim/bert-base-NER model and deployed using the Gradio framework. The application successfully accepts user input and identifies and highlights named entities from the given text.
